@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I like machine stuff and learning stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamcorsel&layout=compact)](https://github.com/williamcorsel/williamcorsel)
+
+
 <!--
 **williamcorsel/williamcorsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
